@@ -31,7 +31,7 @@ from django.conf.global_settings import *  # noqa
 # ==============================================================================
 # 在蓝鲸智云开发者中心 -> 点击应用ID -> 基本信息 中获取 APP_ID 和 APP_TOKEN 的值
 APP_ID = 'wyapp'
-APP_TOKEN = '0e9567d8-7a47-482a-a088-635dcc065b84'
+APP_TOKEN = 'e1bb0983-5968-400b-a8ff-417e7bcf4571'
 # 蓝鲸智云开发者中心的域名，形如：http://paas.bking.com
 BK_PAAS_HOST = 'http://paas.bk8.com'
 
@@ -39,7 +39,7 @@ BK_PAAS_HOST = 'http://paas.bk8.com'
 DEFAULT_BK_API_VER = 'v2'
 
 # 是否启用celery任务
-IS_USE_CELERY = False
+IS_USE_CELERY = True
 # 本地开发的 celery 的消息队列（RabbitMQ）信息
 BROKER_URL_DEV = 'amqp://guest:guest@127.0.0.1:5672/'
 # TOCHANGE 调用celery任务的文件路径, List of modules to import when celery starts.

@@ -4,7 +4,6 @@
     <list default="true" id="c1ab2354-579c-4c6f-aa46-3459601fefc2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/conf/default.py" beforeDir="false" afterPath="$PROJECT_DIR$/conf/default.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conf/settings_testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/conf/settings_testing.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +55,7 @@
       <workItem from="1569804198224" duration="11026000" />
       <workItem from="1570007009392" duration="48191000" />
       <workItem from="1570179203291" duration="8967000" />
+      <workItem from="1570249653425" duration="63000" />
     </task>
     <servers />
   </component>
